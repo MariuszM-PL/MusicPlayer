@@ -2,7 +2,7 @@
 
 This Python script is a simple music player application built using the Tkinter GUI library and the Pygame library for sound handling. The application allows users to play, pause, stop, and navigate through a playlist of MP3 songs.
 
-## Features
+## Features 📝
 
 - Play, pause, stop, and navigate through the playlist of MP3 songs.
 - Browse and add MP3 songs to the playlist.
@@ -10,14 +10,14 @@ This Python script is a simple music player application built using the Tkinter 
 - Remove selected songs from the playlist.
 - Display the current song's artist and title.
 
-## Requirements
+## Requirements ⚙️
 
 - Python 3.x
 - Tkinter
 - Pygame
 - Pillow (PIL)
 
-## Usage
+## Usage 🖱️
 
 1. Clone the repository:
 
@@ -34,7 +34,7 @@ This Python script is a simple music player application built using the Tkinter 
    ```bash
    python music_player.py
    
-## Screenshots
+## Screenshots 🖌️
 ![image](https://github.com/MariuszM-PL/MusicPlayer/assets/106276344/6615f5fc-acb3-492e-b650-4b33b72919b4)
 
 ## Adding Songs
@@ -49,5 +49,5 @@ Adjust the volume using the volume slider.
 ## Exit
 Click on the power-off button 
 
-## License
+## License ©️
 This project is licensed under the MIT License.
