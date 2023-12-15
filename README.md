@@ -1,5 +1,5 @@
 # 🎵 Music Player App 🎵
-- Music player application where you can listen .mp3, .wav, .ogg files. 
+- Music player project for Academic Course Completion: This repository contains code for a music player developed as part of my academic coursework. You can listen .mp3, .wav, .ogg files. 
 
 # Current features 📝
 - Listbox for playlist songs with function where you can delete them by context menu ✔
